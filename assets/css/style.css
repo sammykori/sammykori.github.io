@@ -1,19 +1,10 @@
-/**
-* Template Name: FlexStart - v1.2.0
-* Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 :root {
   scroll-behavior: smooth;
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #444444;
 }
 
@@ -182,7 +173,7 @@ section {
 }
 
 .header .logo img {
-  max-height: 40px;
+  max-height: 100px;
   margin-right: 6px;
 }
 
